@@ -49,12 +49,12 @@ Rscript r/main.R
 fe535-etf-risk-modeling/
 ├── data/
 │   └── raw/
-│       └── etf_prices.csv      # Raw CSV of ETF prices (Jan 2010–Sep 2023)
+│       └── etf_prices.csv
 ├── r/
-│   └── main.R                  # R script: quantmod + ggplot2 analysis
-├── results/                    # (Optional) output plots or tables
-├── .gitignore                  # Ignore R artifacts, raw data, results/
-└── README.md                   # Project overview, usage, and structure
+│   └── main.R
+├── Final Project.pdf
+├── .gitignore
+└── README.md
 
 
 ---
