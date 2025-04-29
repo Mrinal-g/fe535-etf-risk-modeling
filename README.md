@@ -45,7 +45,15 @@ install.packages(c("quantmod","ggplot2","PerformanceAnalytics"))
 # Run the analysis:
 Rscript r/main.R
 ```
+---
 
+### Result - 
+- See Final Project.pdf
+
+---
+## Project Structure
+
+```
 fe535-etf-risk-modeling/
 ├── data/
 │   └── raw/
@@ -55,7 +63,7 @@ fe535-etf-risk-modeling/
 ├── Final Project.pdf
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
