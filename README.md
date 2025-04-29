@@ -44,3 +44,28 @@ install.packages(c("quantmod","ggplot2","PerformanceAnalytics"))
 
 # Run the analysis:
 Rscript r/main.R
+```
+
+## Project Structure
+
+fe535-etf-risk-modeling/
+├── data/
+│   └── raw/etf_prices.csv
+├── r/main.R
+├── Final Project.pdf
+├── .gitignore
+└── README.md
+
+---
+
+## Future Work
+
+- Python port of the analysis
+- Unit tests for metric functions
+- CI/CD via GitHub Actions
+(Python version coming soon!)
+
+---
+
+## License
+MIT © Mrinal Gupta
