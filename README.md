@@ -1,4 +1,4 @@
-# Stochastic Risk Modeling & Portfolio Optimization for the IVV ETF (2010–2023)
+# IVV ETF Performance & Risk Modeling: Metrics, Efficient Frontier & Monte Carlo VaR (2010–2023)
 
 ![R](https://img.shields.io/badge/R-%3E%3D4.0-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
